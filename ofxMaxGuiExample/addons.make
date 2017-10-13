@@ -1,0 +1,3 @@
+ofxJSON
+ofxMaxGui
+ofxOsc
