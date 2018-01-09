@@ -193,7 +193,7 @@ install:
   - scripts/ci/addons/install.sh
   # install ofxJson
   - cd ~/openFrameworks/addons
-  - git clone --branch=$OF_BRANCH https://https://github.com/jeffcrouse/ofxJSON.git
+  - git clone --branch=$OF_BRANCH https://github.com/jeffcrouse/ofxJSON.git
   - cd ~/openFrameworks
 
 script:

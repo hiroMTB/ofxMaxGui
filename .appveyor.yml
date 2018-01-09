@@ -33,7 +33,7 @@ install:
 - call openFrameworks\scripts\ci\addons\install.cmd
 # install ofxJson
 - cd %OF_PATH%\addons
-- git clone --branch=$OF_BRANCH https://https://github.com/jeffcrouse/ofxJSON.git
+- git clone --branch=$OF_BRANCH https://github.com/jeffcrouse/ofxJSON.git
 
 build_script:
 - cd %OF_PATH%
